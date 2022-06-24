@@ -1,1 +1,1 @@
-exwcute permission to the owner
+owner and group have permission
