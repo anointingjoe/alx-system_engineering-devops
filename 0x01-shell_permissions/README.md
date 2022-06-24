@@ -1,1 +1,1 @@
-all groups i am part of
+hello to betty
