@@ -1,1 +1,1 @@
- other user permission only
+only other user with permission
