@@ -1,1 +1,1 @@
-hello and olleh file same mode
+permission subdirectories
