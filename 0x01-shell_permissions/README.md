@@ -1,1 +1,1 @@
-olleh hello
+hello and olleh file same mode
