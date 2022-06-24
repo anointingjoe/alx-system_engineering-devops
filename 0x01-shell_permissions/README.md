@@ -1,1 +1,1 @@
-swittch current user to betty
+prints effective user
