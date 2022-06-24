@@ -1,1 +1,1 @@
-sybolic link
+ichanges hello to betty only if
