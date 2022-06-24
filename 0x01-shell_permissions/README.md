@@ -1,1 +1,1 @@
-owner and group have permission
+everyone has permission
