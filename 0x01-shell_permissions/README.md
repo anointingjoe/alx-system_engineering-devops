@@ -1,1 +1,1 @@
-prints effective user
+all groups i am part of
