@@ -1,1 +1,1 @@
-play starWars IV
+ set mode of file
