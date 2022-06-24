@@ -1,1 +1,1 @@
-permission subdirectories
+my_dir 751
