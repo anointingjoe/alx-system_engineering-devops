@@ -1,1 +1,1 @@
-file hello
+exwcute permission to the owner
