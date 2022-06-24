@@ -1,1 +1,1 @@
-only other user with permission
+mode hello
