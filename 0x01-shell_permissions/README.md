@@ -1,1 +1,1 @@
-mode hello
+only other user are permitted
