@@ -1,1 +1,1 @@
-change current user to betty
+swittch current user to betty
