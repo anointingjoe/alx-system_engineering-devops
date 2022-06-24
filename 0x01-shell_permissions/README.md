@@ -1,1 +1,1 @@
-group and user no permission but other user
+ other user permission only
