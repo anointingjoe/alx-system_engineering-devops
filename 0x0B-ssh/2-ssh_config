@@ -1,0 +1,10 @@
+# ssh_config
+
+Host *
+    PasswordAuthentication no
+    IdentityFile ~/.ssh/school
+    SendEnv LANG LC_*
+    HashKnownHosts yes
+    GSSAPIAuthentication yes
+    HostName 3892e49a4301.5ca615cf.alx-cod.online
+    User 3892e49a4301
